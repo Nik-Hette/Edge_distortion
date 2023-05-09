@@ -64,16 +64,16 @@ A feature of this engine is the ability to check the neighborhood of characters.
 
 #Recommended structure of the main game file
 
-importing the engine
-entity classes
-level class
-control function
-Creating the World
-Creating a level
-game cycle:
-	updating the world
-	showing the world
-	management
-	Entity Cycle: 
-		Entity Actions
-	Checking for loss
+- importing the engine
+- entity classes
+- level class
+- control function
+- Creating the World
+- Creating a level
+- game cycle:
+- updating the world
+- showing the world
+- management
+- Entity Cycle: 
+- Entity Actions
+- Checking for loss
